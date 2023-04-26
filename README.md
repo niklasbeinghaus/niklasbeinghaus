@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on a solution for deploying serverless-Stacks using crossplane
 - 📫 How to reach me: niklas.beinghaus@sz.de
 
+Links:
+- LinkedIn: https://www.linkedin.com/in/niklas-beinghaus/
+- Twitter: https://twitter.com/nj0erd
+
 <!---
 niklasbeinghaus/niklasbeinghaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
