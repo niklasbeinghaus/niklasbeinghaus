@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things cloud native, woodworking and outdoor sports, sprinkled with electronic music.
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on a solution for deploying serverless-Stacks using crossplane
-- 📫 How to reach me: niklas.beinghaus@sz.de
+- 📫 How to reach me: niklas.beinghaus@sz.de [[GPG Public Key]](niklas.beinghaus@sz.de.asc)
 
 Links:
 - LinkedIn: https://www.linkedin.com/in/niklas-beinghaus/
