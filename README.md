@@ -7,7 +7,7 @@
 Links:
 - LinkedIn: https://www.linkedin.com/in/niklas-beinghaus/
 - Twitter: https://twitter.com/nj0erd
-
+- Private Github: https://github.com/njoerd114
 <!---
 niklasbeinghaus/niklasbeinghaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
