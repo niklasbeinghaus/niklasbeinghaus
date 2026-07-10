@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @niklasbeinghaus
 - 👀 I’m interested in all things cloud native, woodworking and outdoor sports, sprinkled with electronic music.
 - 🌱 I’m currently learning Rust
-- 💞️ I’m starting to contribute to the [CNCF Tag App-Delivery](https://github.com/cncf/tag-app-delivery), more specifically in the platform-wg. Happy to collaborate on stuff :tada°^:
+- 💞️ I’m starting to contribute to the [CNCF Tag App-Delivery](https://github.com/cncf/tag-app-delivery), more specifically in the platform-wg. Happy to collaborate on stuff :tada:
+- 📷 profile picture was taken by https://github.com/josh-fiskaly during a @fiskaly event!
 <!--- 📫 How to reach me: niklas.beinghaus@fiskaly.com [[GPG Public Key]](niklas.beinghaus@sz.de.asc) --->
 
 Links:
